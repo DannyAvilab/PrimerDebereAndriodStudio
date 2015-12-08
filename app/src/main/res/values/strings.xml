@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">geo</string>
+    <string name="action_settings">Settings</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">Correcto!!!</string>
+    <string name="incorrect_toast">Incorrecto!!!</string>
+    <string name="next_button">Siguiente</string>
+    <string name="otro_button">Anterior</string>
+
+
+    <string name="question_barce">Bercelona es  mejor que emelec</string>
+    <string name="question_sema">Los dias de la semanas son ochos</string>
+    <string name="question_ecuador">Ecuador queda en SSudamerica </string>
+    <string name="question_bill">Quien creo microsoft santa closss</string>
+</resources>
